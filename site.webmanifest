@@ -3,13 +3,13 @@
     "short_name": " Anand Nawal ",
     "icons": [
         {
-            "src": "https://blogger.googleusercontent.com/img/a/AVvXsEgsYpJ_4T3qPhPMBNLptiWN-6kwPOT-rd71zfkG1Izo54otcfJMDglsHBRTHS-hrdQ3h2feCCMe8KSsAZfpjEv-psC572QOWGkA0nk0hSfhpNvEvAo2VWT_dMRRMLclO1CgUxEBeXQDKd2kjqpwI51p51aJm-BypF39JR2ZsYC-FuKQ1foioPV7ne9w"
+            "src": "https://raw.githubusercontent.com/anandn2005/PWA/main/android-chrome-192x192.png"
             "sizes": "192x192",
             "type": "image/png",
             "purpose": "any maskable"
         },
         {
-            "src": "vXsEhg8l7Ma6Mb_ii_rYPkxndHGZhGMKgdv0S4g0FIWF555WklVM9Ne-Egjn2F_DVqW6nh39NbV4bgm3KrJ8ahphtmzVVgToVbdt_THrFOggb3gcZzXKTMB-FJwL3hIBMvfz11IlKRcLIZbK75jHY92iFnsgDeBi_PBvVZdg0Z73XhjpldxIPpO2nVQfDB=s512"
+            "src": "https://raw.githubusercontent.com/anandn2005/PWA/main/android-chrome-512x512.png"
             "sizes": "512x512",
             "type": "image/png",
             "purpose": "any maskable"
